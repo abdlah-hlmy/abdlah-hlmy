@@ -51,8 +51,8 @@ Personal and practice projects.
       Banking app interface built with Next.js. <a href="https://github.com/abdlah-hlmy/JSM_Banking">Code</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdlah-hlmy/lugx-gaming">lugx-gaming</a></h3>
-      Multi-section gaming website in HTML and CSS. <a href="https://github.com/abdlah-hlmy/lugx-gaming">Code</a>
+      <h3><a href="https://naqaa-cleaning.vercel.app">Naqaa</a></h3>
+      Arabic (RTL) demo site for a Saudi cleaning company, built with Next.js. <a href="https://naqaa-cleaning.vercel.app">Live demo</a> · <a href="https://github.com/abdlah-hlmy/Naqaa">Code</a>
     </td>
   </tr>
 </table>
