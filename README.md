@@ -52,7 +52,7 @@ Personal and practice projects.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://naqaa-cleaning.vercel.app">Naqaa</a></h3>
-      Arabic (RTL) demo site for a Saudi cleaning company, built with Next.js. <a href="https://naqaa-cleaning.vercel.app">Live demo</a> · <a href="https://github.com/abdlah-hlmy/Naqaa">Code</a>
+      موقع تجريبي لشركة تنظيف سعودية، مبني بالعربي (RTL) على Next.js <a href="https://naqaa-cleaning.vercel.app">Live demo</a> · <a href="https://github.com/abdlah-hlmy/Naqaa">Code</a>
     </td>
   </tr>
 </table>
