@@ -37,23 +37,23 @@ Personal and practice projects.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://brainwave-two-rust.vercel.app">BrainWave</a></h3>
-      Landing page build. <a href="https://brainwave-two-rust.vercel.app">Live demo</a> · <a href="https://github.com/abdlah-hlmy/BrainWave">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://clone-applesite.vercel.app">Clone-AppleSite</a></h3>
-      Product page practice build. <a href="https://clone-applesite.vercel.app">Live demo</a> · <a href="https://github.com/abdlah-hlmy/Clone-AppleSite">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdlah-hlmy/JSM_Banking">JSM_Banking</a></h3>
-      Banking app interface built with Next.js. <a href="https://github.com/abdlah-hlmy/JSM_Banking">Code</a>
+      <h3><a href="https://abdullah-helmy.vercel.app/">My Portfolio</a></h3>
+      My personal portfolio, built with Next.js, Supabase and GSAP. <a href="https://abdullah-helmy.vercel.app/">Live demo</a> · <a href="https://github.com/abdlah-hlmy/My-Portfolio">Code</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://naqaa-cleaning.vercel.app">Naqaa</a></h3>
       <div dir="rtl" align="left">موقع تجريبي لشركة تنظيف سعودية، مبني بالعربي (RTL) على Next.js</div>
       <a href="https://naqaa-cleaning.vercel.app">Live demo</a> · <a href="https://github.com/abdlah-hlmy/Naqaa">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://brainwave-two-rust.vercel.app">BrainWave</a></h3>
+      Landing page build. <a href="https://brainwave-two-rust.vercel.app">Live demo</a> · <a href="https://github.com/abdlah-hlmy/BrainWave">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abdlah-hlmy/JSM_Banking">JSM_Banking</a></h3>
+      Banking app interface built with Next.js. <a href="https://github.com/abdlah-hlmy/JSM_Banking">Code</a>
     </td>
   </tr>
 </table>
